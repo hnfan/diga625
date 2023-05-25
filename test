@@ -1,0 +1,4 @@
+Here in this tutorial, we will learn the steps to install open source Anaconda Navigator on WSL- Windows Subsystem for Linux – Windows 10 or 11 using Ubuntu 20.04/22.04 Linux App.
+
+Although Anaconda Navigator by default is available for Windows 10 or 11 in the executable file format. However, if you still want to install it on the Linux interface that is running on WSL 1 or WSL 2 Linux Apps such as Ubuntu, then that is possible as well.
+
